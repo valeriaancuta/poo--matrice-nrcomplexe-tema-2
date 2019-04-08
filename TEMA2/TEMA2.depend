@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554763080 source:c:\users\valeria\documents\lfa\tema2\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+
